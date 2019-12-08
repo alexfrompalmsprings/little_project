@@ -1,0 +1,24 @@
+{
+  "name": "little_project",
+  "version": "1.0.0",
+  "description": "a little project to catch up on my full stack skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfrompalmsprings/little_project.git"
+  },
+  "author": "Alex && maybe some stackOverflow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfrompalmsprings/little_project/issues"
+  },
+  "homepage": "https://github.com/alexfrompalmsprings/little_project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
