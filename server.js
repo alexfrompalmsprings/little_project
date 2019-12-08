@@ -7,4 +7,6 @@ app.listen(3088, () =>{
   console.log('The API should be connected to 3088');
 });
 
+
+module.exports.app = app;
 // console.log('this is where we notice if the server is running correctly');
