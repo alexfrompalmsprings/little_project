@@ -9,3 +9,4 @@ create TABLE IF NOT EXISTS workouts (
   PRIMARY KEY (workoutId),
   UNIQUE (workoutName)
 );
+
